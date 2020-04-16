@@ -6,6 +6,7 @@ Quick python automoation scripts to list and download books.
 
 ```shell script
 git clone https://github.com/pingu1m/springer-books-downloader.git
+cd springer-books-downloader
 pip install
 ```
 
